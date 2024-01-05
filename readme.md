@@ -32,7 +32,6 @@
 
 ![Selection Sort - Teste 3](src/Graficos/TestesSelectionSort/TerceiroTesteSelectionSort.png)
 
-Descrição ou legenda para o Teste 2.
 
 ## Testes Bubble Sort:
 
