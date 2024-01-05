@@ -4,7 +4,7 @@
 
 ### Teste 1:
 
-![Insertion Sort - Teste 1](Graficos/TestesInsertionSort/PrimeiroTesteInsertionSort.png)
+![Insertion Sort - Teste 1](src/Graficos/TestesInsertionSort/PrimeiroTesteInsertionSort.png)
 
 ### Teste 2:
 
