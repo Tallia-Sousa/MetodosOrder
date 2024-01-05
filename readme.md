@@ -14,7 +14,7 @@
 ### Teste 3:
 
 
-=======
+
 ![Insertion Sort - Teste 3](src/Graficos/TestesInsertionSort/TerceiroTesteInsertionSort.png)
 
 
