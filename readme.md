@@ -37,7 +37,7 @@
 
 ### Teste 1:
 
-![Bubble Sort - Teste 1](src/Graficos/TestesBubbleSort/PrimeiroiroTesteBubbleSort.png)
+![Bubble Sort - Teste 1](src/Graficos/TestesBubbleSort/PrimeiroTesteBubbleSort.png)
 
 
 
