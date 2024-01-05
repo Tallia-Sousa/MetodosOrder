@@ -13,7 +13,10 @@
 
 ### Teste 3:
 
-![Insertion Sort - Teste 2](src/Graficos/TestesInsertionSort/TerceiroTesteInsertionSort.png)
+
+=======
+![Insertion Sort - Teste 3](src/Graficos/TestesInsertionSort/TerceiroTesteInsertionSort.png)
+
 
 ## Testes Selection Sort:
 
@@ -37,8 +40,7 @@
 
 ### Teste 1:
 
-![Bubble Sort - Teste 1](src/Graficos/TestesBubbleSort/PrimeiroiroTesteBubbleSort.png)
-
+![Bubble Sort - Teste 1](src/Graficos/TestesBubbleSort/PrimeiroTesteBubbleSort.png)
 
 
 ### Teste 2:
@@ -47,6 +49,7 @@
 
 ### Teste 3:
 
-![Bubble Sort - Teste 2](src/Graficos/TestesBubbleSort/TerceiroTesteBubbleSort.png)
+
+![Bubble Sort - Teste 3](src/Graficos/TestesBubbleSort/TerceiroTesteBubbleSort.png)
 
 
